@@ -1,0 +1,13 @@
+.task {
+  display: flex;
+}
+
+body{
+  background-color: gray;
+  color:white;
+}
+
+.completedTask {
+  text-decoration: line-through;
+}
+
